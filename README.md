@@ -16,6 +16,9 @@ Patcharin Cheng
 
 Arjun Vaithilingam Sudhakar
 
+presentation slide can be found [here](https://docs.google.com/presentation/d/1HfolpTci-lAh_MLWbS5ZTfUYm19PZh1uEr2Z5sGU5Yg/edit#slide=id.gb0fe54fd99_0_43).
+
+
 ### Prerequisite:
 
 1.  Make sure the dataset is linked under the following directory/load the competition dataset in Kaggle,
