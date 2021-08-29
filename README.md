@@ -1,5 +1,11 @@
 # Data Science Competition- Social Media Prediction
 
+
+The main task for the data challenge is to predict the number of 'likes' for given details about the simulated profiles of users on social media.
+
+We have been provided with various attributes about the visual aspects of the users' social media profiles, the basic details, the profile pictures used in the simulation. We use this information to predict how many 'likes' the users could've likely received.
+
+
 ### Team Name - Student Baseline
 
 ### Team Members:
