@@ -12,9 +12,9 @@ presentation slide can be found [here](https://docs.google.com/presentation/d/1H
 
 ### Team Members:
 
-Balaji Balasubramanian
+Patcharin Cheng
 
-Patcharin Cheng 
+Balaji Balasubramanian 
 
 Arjun Vaithilingam Sudhakar
 
